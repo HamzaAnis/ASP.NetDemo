@@ -1,0 +1,5 @@
+c:\users\sam\documents\visual studio 2012\Projects\SadiLabsASPNETForms\002_EmptyWebApp\bin\002_EmptyWebApp.dll
+c:\users\sam\documents\visual studio 2012\Projects\SadiLabsASPNETForms\002_EmptyWebApp\bin\002_EmptyWebApp.pdb
+c:\users\sam\documents\visual studio 2012\Projects\SadiLabsASPNETForms\002_EmptyWebApp\obj\Debug\002_EmptyWebApp.csprojResolveAssemblyReference.cache
+c:\users\sam\documents\visual studio 2012\Projects\SadiLabsASPNETForms\002_EmptyWebApp\obj\Debug\002_EmptyWebApp.dll
+c:\users\sam\documents\visual studio 2012\Projects\SadiLabsASPNETForms\002_EmptyWebApp\obj\Debug\002_EmptyWebApp.pdb

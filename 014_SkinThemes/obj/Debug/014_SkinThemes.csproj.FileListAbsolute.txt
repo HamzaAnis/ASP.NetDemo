@@ -1,0 +1,10 @@
+C:\Users\sam\Documents\Visual Studio 2012\Projects\CS_WP\014_SkinThemes\bin\014_SkinThemes.dll
+C:\Users\sam\Documents\Visual Studio 2012\Projects\CS_WP\014_SkinThemes\bin\014_SkinThemes.pdb
+C:\Users\sam\Documents\Visual Studio 2012\Projects\CS_WP\014_SkinThemes\obj\Debug\014_SkinThemes.csprojResolveAssemblyReference.cache
+C:\Users\sam\Documents\Visual Studio 2012\Projects\CS_WP\014_SkinThemes\obj\Debug\014_SkinThemes.dll
+C:\Users\sam\Documents\Visual Studio 2012\Projects\CS_WP\014_SkinThemes\obj\Debug\014_SkinThemes.pdb
+G:\Taught Course\Spring 2015\Examples\Examples\CS_WP\014_SkinThemes\bin\014_SkinThemes.dll
+G:\Taught Course\Spring 2015\Examples\Examples\CS_WP\014_SkinThemes\bin\014_SkinThemes.pdb
+G:\Taught Course\Spring 2015\Examples\Examples\CS_WP\014_SkinThemes\obj\Debug\014_SkinThemes.csprojResolveAssemblyReference.cache
+G:\Taught Course\Spring 2015\Examples\Examples\CS_WP\014_SkinThemes\obj\Debug\014_SkinThemes.dll
+G:\Taught Course\Spring 2015\Examples\Examples\CS_WP\014_SkinThemes\obj\Debug\014_SkinThemes.pdb

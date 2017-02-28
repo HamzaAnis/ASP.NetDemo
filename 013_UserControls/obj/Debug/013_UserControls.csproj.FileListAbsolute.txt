@@ -1,0 +1,4 @@
+C:\Users\sam\Documents\Visual Studio 2012\Projects\CS_WP\013_UserControls\bin\013_UserControls.dll
+C:\Users\sam\Documents\Visual Studio 2012\Projects\CS_WP\013_UserControls\bin\013_UserControls.pdb
+C:\Users\sam\Documents\Visual Studio 2012\Projects\CS_WP\013_UserControls\obj\Debug\013_UserControls.dll
+C:\Users\sam\Documents\Visual Studio 2012\Projects\CS_WP\013_UserControls\obj\Debug\013_UserControls.pdb

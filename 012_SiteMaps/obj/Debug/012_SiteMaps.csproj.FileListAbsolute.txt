@@ -1,0 +1,10 @@
+C:\Users\sam\Documents\Visual Studio 2012\Projects\CS_WP\012_SiteMaps\bin\012_SiteMaps.dll
+C:\Users\sam\Documents\Visual Studio 2012\Projects\CS_WP\012_SiteMaps\bin\012_SiteMaps.pdb
+C:\Users\sam\Documents\Visual Studio 2012\Projects\CS_WP\012_SiteMaps\obj\Debug\012_SiteMaps.dll
+C:\Users\sam\Documents\Visual Studio 2012\Projects\CS_WP\012_SiteMaps\obj\Debug\012_SiteMaps.pdb
+C:\Users\sam\Documents\Visual Studio 2012\Projects\CS_WP\012_SiteMaps\obj\Debug\012_SiteMaps.csprojResolveAssemblyReference.cache
+G:\Taught Course\Spring 2015\Examples\Examples\CS_WP\012_SiteMaps\bin\012_SiteMaps.dll
+G:\Taught Course\Spring 2015\Examples\Examples\CS_WP\012_SiteMaps\bin\012_SiteMaps.pdb
+G:\Taught Course\Spring 2015\Examples\Examples\CS_WP\012_SiteMaps\obj\Debug\012_SiteMaps.csprojResolveAssemblyReference.cache
+G:\Taught Course\Spring 2015\Examples\Examples\CS_WP\012_SiteMaps\obj\Debug\012_SiteMaps.dll
+G:\Taught Course\Spring 2015\Examples\Examples\CS_WP\012_SiteMaps\obj\Debug\012_SiteMaps.pdb

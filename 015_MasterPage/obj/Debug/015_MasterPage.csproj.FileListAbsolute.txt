@@ -1,0 +1,10 @@
+C:\Users\sam\Documents\Visual Studio 2012\Projects\CS_WP\015_MasterPage\bin\015_MasterPage.dll
+C:\Users\sam\Documents\Visual Studio 2012\Projects\CS_WP\015_MasterPage\bin\015_MasterPage.pdb
+C:\Users\sam\Documents\Visual Studio 2012\Projects\CS_WP\015_MasterPage\obj\Debug\015_MasterPage.csprojResolveAssemblyReference.cache
+C:\Users\sam\Documents\Visual Studio 2012\Projects\CS_WP\015_MasterPage\obj\Debug\015_MasterPage.dll
+C:\Users\sam\Documents\Visual Studio 2012\Projects\CS_WP\015_MasterPage\obj\Debug\015_MasterPage.pdb
+G:\Taught Course\Spring 2015\Examples\Examples\CS_WP\015_MasterPage\bin\015_MasterPage.dll
+G:\Taught Course\Spring 2015\Examples\Examples\CS_WP\015_MasterPage\bin\015_MasterPage.pdb
+G:\Taught Course\Spring 2015\Examples\Examples\CS_WP\015_MasterPage\obj\Debug\015_MasterPage.csprojResolveAssemblyReference.cache
+G:\Taught Course\Spring 2015\Examples\Examples\CS_WP\015_MasterPage\obj\Debug\015_MasterPage.dll
+G:\Taught Course\Spring 2015\Examples\Examples\CS_WP\015_MasterPage\obj\Debug\015_MasterPage.pdb

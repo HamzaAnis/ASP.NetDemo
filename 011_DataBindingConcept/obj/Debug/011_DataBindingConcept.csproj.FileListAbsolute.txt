@@ -1,0 +1,4 @@
+G:\Taught Course\Spring 2015\Examples\Examples\CS_WP\011_DataBindingConcept\bin\011_DataBindingConcept.dll
+G:\Taught Course\Spring 2015\Examples\Examples\CS_WP\011_DataBindingConcept\bin\011_DataBindingConcept.pdb
+G:\Taught Course\Spring 2015\Examples\Examples\CS_WP\011_DataBindingConcept\obj\Debug\011_DataBindingConcept.dll
+G:\Taught Course\Spring 2015\Examples\Examples\CS_WP\011_DataBindingConcept\obj\Debug\011_DataBindingConcept.pdb

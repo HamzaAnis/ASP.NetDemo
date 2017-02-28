@@ -1,0 +1,4 @@
+c:\users\sam\documents\visual studio 2012\Projects\SadiLabsASPNETForms\004_StateManagement\bin\004_StateManagement.dll
+c:\users\sam\documents\visual studio 2012\Projects\SadiLabsASPNETForms\004_StateManagement\bin\004_StateManagement.pdb
+c:\users\sam\documents\visual studio 2012\Projects\SadiLabsASPNETForms\004_StateManagement\obj\Debug\004_StateManagement.dll
+c:\users\sam\documents\visual studio 2012\Projects\SadiLabsASPNETForms\004_StateManagement\obj\Debug\004_StateManagement.pdb

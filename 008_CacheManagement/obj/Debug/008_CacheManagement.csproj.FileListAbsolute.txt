@@ -1,0 +1,5 @@
+C:\Users\sam\Documents\Visual Studio 2012\Projects\CS_WP\008_CacheManagement\bin\008_CacheManagement.dll
+C:\Users\sam\Documents\Visual Studio 2012\Projects\CS_WP\008_CacheManagement\bin\008_CacheManagement.pdb
+C:\Users\sam\Documents\Visual Studio 2012\Projects\CS_WP\008_CacheManagement\obj\Debug\008_CacheManagement.csprojResolveAssemblyReference.cache
+C:\Users\sam\Documents\Visual Studio 2012\Projects\CS_WP\008_CacheManagement\obj\Debug\008_CacheManagement.dll
+C:\Users\sam\Documents\Visual Studio 2012\Projects\CS_WP\008_CacheManagement\obj\Debug\008_CacheManagement.pdb

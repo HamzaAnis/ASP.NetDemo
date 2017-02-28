@@ -1,0 +1,4 @@
+G:\Taught Course\Spring 2015\Examples\Examples\CS_WP\006_ValidationTests\bin\006_ValidationTests.dll
+G:\Taught Course\Spring 2015\Examples\Examples\CS_WP\006_ValidationTests\bin\006_ValidationTests.pdb
+G:\Taught Course\Spring 2015\Examples\Examples\CS_WP\006_ValidationTests\obj\Debug\006_ValidationTests.dll
+G:\Taught Course\Spring 2015\Examples\Examples\CS_WP\006_ValidationTests\obj\Debug\006_ValidationTests.pdb

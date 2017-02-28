@@ -1,0 +1,7 @@
+c:\users\sam\documents\visual studio 2012\Projects\SadiLabsASPNETForms\003_PageLifeCycle\bin\003_PageLifeCycle.dll
+c:\users\sam\documents\visual studio 2012\Projects\SadiLabsASPNETForms\003_PageLifeCycle\bin\003_PageLifeCycle.pdb
+c:\users\sam\documents\visual studio 2012\Projects\SadiLabsASPNETForms\003_PageLifeCycle\obj\Debug\003_PageLifeCycle.dll
+c:\users\sam\documents\visual studio 2012\Projects\SadiLabsASPNETForms\003_PageLifeCycle\obj\Debug\003_PageLifeCycle.pdb
+c:\users\sam\documents\visual studio 2012\Projects\SadiLabsASPNETForms\003_PageLifeCycle\obj\Debug\003_PageLifeCycle.csprojResolveAssemblyReference.cache
+c:\users\sam\documents\visual studio 2012\Projects\SadiLabsASPNETForms\003_PageLifeCycle\obj\Debug\003_PageLifeCycle.csproj.GenerateResource.Cache
+c:\users\sam\documents\visual studio 2012\Projects\SadiLabsASPNETForms\003_PageLifeCycle\obj\Debug\_003_PageLifeCycle.App_GlobalResources.Resource1.resources

@@ -1,0 +1,10 @@
+C:\Users\sam\Documents\Visual Studio 2012\Projects\CS_WP\009_ServerSideControls\bin\009_ServerSideControls.dll
+C:\Users\sam\Documents\Visual Studio 2012\Projects\CS_WP\009_ServerSideControls\bin\009_ServerSideControls.pdb
+C:\Users\sam\Documents\Visual Studio 2012\Projects\CS_WP\009_ServerSideControls\obj\Debug\009_ServerSideControls.csprojResolveAssemblyReference.cache
+C:\Users\sam\Documents\Visual Studio 2012\Projects\CS_WP\009_ServerSideControls\obj\Debug\009_ServerSideControls.dll
+C:\Users\sam\Documents\Visual Studio 2012\Projects\CS_WP\009_ServerSideControls\obj\Debug\009_ServerSideControls.pdb
+G:\Taught Course\Spring 2015\Examples\Examples\CS_WP\009_ServerSideControls\bin\009_ServerSideControls.dll
+G:\Taught Course\Spring 2015\Examples\Examples\CS_WP\009_ServerSideControls\bin\009_ServerSideControls.pdb
+G:\Taught Course\Spring 2015\Examples\Examples\CS_WP\009_ServerSideControls\obj\Debug\009_ServerSideControls.csprojResolveAssemblyReference.cache
+G:\Taught Course\Spring 2015\Examples\Examples\CS_WP\009_ServerSideControls\obj\Debug\009_ServerSideControls.dll
+G:\Taught Course\Spring 2015\Examples\Examples\CS_WP\009_ServerSideControls\obj\Debug\009_ServerSideControls.pdb

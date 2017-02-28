@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Class xmlns="http://tempuri.org/XMLFile1.xsd">
+    <Student>
+        <Rollno>1</Rollno>
+        <Name>Abc</Name>
+        <Marks>100</Marks>
+    </Student>
+    <Student>
+        <Rollno>2</Rollno>
+        <Name>xyz</Name>
+        <Marks>120</Marks>
+    </Student>
+    <Student>
+        <Rollno>3</Rollno>
+        <Name>fff ff</Name>
+        <Marks>23</Marks>
+    </Student>
+</Class>
